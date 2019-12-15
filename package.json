@@ -1,0 +1,14 @@
+{
+  "name": "if-element-exists",
+  "version": "1.0.0",
+  "description": "execute a function iff the element exists",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
