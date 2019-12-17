@@ -7,6 +7,7 @@
     "test": "jest"
   },
   "keywords": [],
+  "repository": "github:blewisio/if-element-exists",
   "license": "ISC",
   "devDependencies": {
     "jest": "^24.9.0"
