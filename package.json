@@ -1,6 +1,6 @@
 {
   "name": "if-element-exists",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "execute a function iff the element exists",
   "main": "index.js",
   "scripts": {
