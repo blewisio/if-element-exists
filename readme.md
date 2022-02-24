@@ -20,7 +20,7 @@ ifElementExists('.foo', x => x.classList.add('bar'));
 
 ### ifElementExists(elementOrSelector, func)
 
-Calls `func` if and only if the element is not null. the Returns the result of `func`.
+Calls `func` if and only if the element is not null. Returns the result of `func`.
 
 #### elementOrSelector
 
