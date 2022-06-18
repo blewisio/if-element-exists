@@ -10,6 +10,6 @@
   "repository": "github:blewisio/if-element-exists",
   "license": "ISC",
   "devDependencies": {
-    "jest": "25.5.4"
+    "jest": "28.1.1"
   }
 }
